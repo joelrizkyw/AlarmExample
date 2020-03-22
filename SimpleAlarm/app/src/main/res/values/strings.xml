@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleAlarm</string>
+
+    <string-array name="songs_array">
+        <item>Choose Ringtone</item>
+        <item>Your Name</item>
+        <item>Blue Water</item>
+        <item>Hikari</item>
+    </string-array>
+</resources>
